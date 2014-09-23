@@ -1,0 +1,9 @@
+extends layout
+
+block content
+	div.container
+		h1 Program Name
+		p Hello World
+			- if (messages.info)
+				.message.info
+				span= messages.info
