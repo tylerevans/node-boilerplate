@@ -10,5 +10,6 @@ Node Boilerplate for Facebook, Twitter and LinkedIn Authentication
 	<li>Jade Templating Engine</li>
 </ul>
 
-<p>All classes have been generalised and validated. You will be required to replace specific parameters (eg: Facebook Application ID) with your specific ID.</p>
+
+<p style='color:#444;'>All classes have been generalised and validated. You will be required to replace specific parameters (eg: Facebook Application ID) with your specific ID.</p>
 	
